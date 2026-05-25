@@ -122,5 +122,8 @@ Cinemyth is a **UI prototype**. All movie data and user content is currently har
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
-
+<div align="center">
+  
 Developed by <a href='https://github.com/dotrwt'>dotrwt</a>
+
+</div>
