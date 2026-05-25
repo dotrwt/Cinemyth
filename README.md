@@ -1,6 +1,7 @@
-<img src="https://github.com/dotrwt/Cinemyth/blob/main/src/assets/CM_LOGO.png" alt='Logo' align="center" height="100">
-
-# Cinemyth
+<div align='center>
+  <img src="https://github.com/dotrwt/Cinemyth/blob/main/src/assets/CM_LOGO.png" alt='Logo' height='100'>
+  # Cinemyth
+</div>
 
 **Where Hollywood Fans Create Magic.**
 
