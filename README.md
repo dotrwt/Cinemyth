@@ -1,4 +1,4 @@
-<img src="https://github.com/dotrwt/Cinemyth/blob/main/src/assets/CM_LOGO.png" alt='Logo' align="center">
+<img src="https://github.com/dotrwt/Cinemyth/blob/main/src/assets/CM_LOGO.png" alt='Logo' align="center" height="100">
 
 # Cinemyth
 
