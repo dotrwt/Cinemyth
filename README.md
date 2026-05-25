@@ -1,4 +1,4 @@
-<img src="" alt='Logo'>
+<img src="https://github.com/dotrwt/Cinemyth/blob/main/src/assets/CM_LOGO.png" alt='Logo' align="center">
 
 # Cinemyth
 
@@ -6,7 +6,9 @@
 
 Cinemyth is a fan-community platform for movie enthusiasts , a place to browse films, discover fan-created content, compete on weekly leaderboards, and hunt for hidden easter eggs scattered across the site.
 
-website live at : <a href=''>live preview</a>
+website live at : <a href='https://cinemyth.vercel.app/'>live preview</a>
+
+<img src='https://github.com/dotrwt/Cinemyth/blob/main/CN_UI.png' alt='UI'>
 
 ---
 
